@@ -1,0 +1,7 @@
+[dsl]
+distro = "ubuntu"
+
+[limits]
+memory = "1G"
+cpu = 2
+pids = 128
